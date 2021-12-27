@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/m_setting"
+        android:title="Setting" />
+
+    <item
+        android:id="@+id/m_email"
+        android:title="Email" />
+
+    <item
+        android:id="@+id/m_block"
+        android:title="Block" />
+
+    <item
+        android:id="@+id/m_about"
+        android:title="About Us" />
+
+</menu>
